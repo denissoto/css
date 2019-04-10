@@ -369,6 +369,8 @@ p {
 .aplicar_ajuste {
     padding:20px;
     text-decoration: none;
+    font-family: 'KoHo', sans-serif;
+    border: 1px solid #55a955;
     color: white;
     background: #5cb85c;
     font-size: 20px;
