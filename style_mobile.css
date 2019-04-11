@@ -396,7 +396,7 @@ p {
   font-size:2em;
 }
 
-#name {
+#username {
     width: 300px;
     margin:0 auto;
     font-size: 24px;
@@ -407,7 +407,7 @@ p {
     transition: 0.5s;
     outline: none;
 }
-#name:focus {
+#username:focus {
     border: 3px solid rgb(114, 174, 209);
 }
 #password {
