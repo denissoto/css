@@ -383,3 +383,12 @@ p {
     background: #478d47;
     cursor: pointer;
 }
+
+.LoginFormulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;   
+}
