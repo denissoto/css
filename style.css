@@ -396,7 +396,7 @@ p {
 
 #id_username {
     width: 300px;
-    margin:0 auto;
+    margin:10px;
     font-size: 18px;
     padding: 10px 15px;
     box-sizing: border-box;
@@ -412,7 +412,7 @@ p {
 
 #id_password {
     width: 300px;
-    margin:0 auto;
+    margin:10px;
     font-size: 18px;
     padding: 10px 15px;
     box-sizing: border-box;
