@@ -425,3 +425,6 @@ p {
 #id_password:focus {
     border: 3px solid rgb(114, 174, 209);
 }
+.form-group {
+    text-align:right;
+}
