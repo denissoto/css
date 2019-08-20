@@ -427,3 +427,10 @@ p {
 #id_password:focus {
     border: 3px solid rgb(114, 174, 209);
 }
+
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
